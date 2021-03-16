@@ -4,7 +4,7 @@
 
 **Files:**
 
-**1_MGSC670_OptimizationStrategy.ipynb:** Markdown strategy using optimization PuLP
+**1_MGSC670_OptimizationStrategy.ipynb:** Markdown strategy using optimization in PuLP
 
 **2_Sales-Data-DemandLifts.xlsx:** Method for calculating demand lifts associated with 10%, 20%, and 40% markdown scenarios 
 
